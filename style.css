@@ -1,0 +1,118 @@
+/*-----------------------------------------------------------------------------------+
+|                         PT Communication Systems Pvt. Ltd.
++-----------------------------------------------------------------------------------*/
+
+/*----------------------------- COPYRIGHT INFORMATION -------------------------------+
+| This Program and its Contents are the property of PT Communication Systems Pvt. Ltd.
+| or its subsidiaries. This  document contains confidential  proprietary  information,
+| which is also protected as an unpublished  work under applicable Copyright Laws. The
+| reproduction, distribution, utilization or the communication of this document or any
+| part  thereof, without  express authorization is strictly prohibited. Offenders will
+| be held liable for the payment of damages.
+| © 2024, PT Communication Systems Pvt. Ltd. or its subsidiaries.
+| All rights reserved. Company confidential.
++-----------------------------------------------------------------------------------*/
+
+/*-----------------------------------------------------------------------------------+
+| Module      : IPPIS-TFT DISPLAY
+| File name   :  style.css
+| Description :
+| Author      :
+| Version     :
+| Reviewer    :
+| Review date :
++-----------------------------------------------------------------------------------*/
+window
+{
+  background-color:#320a91;
+  font: 20px,"Comic Sans";
+}
+.head
+{
+   color: #333333;
+   font-weight:bolder;
+   border:5px solid;
+   border-color:white;
+}
+.head1
+{
+   font-size:50px;
+   padding-top:40px;
+   padding-top:40px;
+   color:rgb(254,204,0);
+ }
+.head2
+{
+font-weight:bold;
+font-size:60px;
+padding-top:40px;
+color:rgb(254,204,0);
+}
+
+.head3
+{
+font-weight:bold;
+font-size:60px;
+padding-top:40px;
+color:white;
+}
+.head4
+{
+font-weight:bold;
+font-size:60px;
+padding-top:40px;
+color:white;
+}
+.head5
+{
+font-weight:bold;
+font-size:60px;
+padding-top:40px;
+color:white;
+}
+.head6
+{
+font-style:normal;
+font-weight:bold;
+font-size:80px;
+padding-top:40px;
+color:white;
+}
+.head7
+{
+font-style:normal;
+font-weight:bold;
+font-size:80px;
+padding-top:40px;
+color:white;
+}
+.head8
+{
+font-weight:bold;
+font-size:50px;
+padding-top:125px;
+color:rgb(254,204,0);
+}
+.footer
+{
+border:5px solid;
+border-color:white;
+font-size:40px;
+padding-top:20px;
+padding-bottom:20px;
+color:white;
+}
+
+
+/* WORK AREA */
+/*-----------------------------------------------------------------------------------+
+| © 2024, PT Communication Systems Pvt. Ltd. or its subsidiaries.
+| All rights reserved. Company confidential.
++-----------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
